@@ -52,3 +52,4 @@ app/build.gradle2
 */*/build/**
 
 /signedAPKs
+.idea/sonarlint/issuestore/*
